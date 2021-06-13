@@ -7,7 +7,7 @@
   <packaging>war</packaging>
 
   <scm>
-    <connection>https://github.com/winwjava/winw-geek.git</connection>
+    <connection>https://github.com/winwjava/winw-deep-learning.git</connection>
   </scm>
 
   <properties>
