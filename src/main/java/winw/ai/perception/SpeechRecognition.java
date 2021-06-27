@@ -1,4 +1,4 @@
-package winw.ai.esthesia;
+package winw.ai.perception;
 
 public class SpeechRecognition {
 

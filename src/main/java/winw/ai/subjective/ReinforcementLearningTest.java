@@ -14,6 +14,9 @@ package winw.ai.subjective;
  * <p>
  * 操作性条件反射：是ActionX 与另外一个RewardY之间建立联系，并强化学习。
  * 
+ * <p>
+ * 参考： Human-level control through deep reinforcement learning
+ * 
  * @author winw
  *
  */

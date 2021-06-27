@@ -1,4 +1,4 @@
-package winw.ai.esthesia;
+package winw.ai.perception;
 
 import java.io.IOException;
 import java.nio.file.Files;
